@@ -29,16 +29,9 @@
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
  ![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) 
 
-
-
-
-
 ## My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapsaurav)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Your Repository Stats](https://github-readme-stats.vercel.app/api?username=kashyapsaurav&show_icons=true)](https://github.com/kashyapsaurav/)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical) ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical) ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github) ![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github) ![Metrics](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/workflows/Metrics/badge.svg)
 
 If you are interested in collaborating or just want to say hi, I'm always open to meeting new people! Let's connect and build something amazing together.
 
