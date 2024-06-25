@@ -31,7 +31,7 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical) ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical) ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github) ![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github) ![Metrics](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/workflows/Metrics/badge.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skashyap9934&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap9934&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skashyap9934&theme=radical) ![Trophies](https://github-profile-trophy.vercel.app/?username=skashyap9934&theme=radical) ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skashyap9934&theme=github) ![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skashyap9934&theme=github)
 
 If you are interested in collaborating or just want to say hi, I'm always open to meeting new people! Let's connect and build something amazing together.
 
