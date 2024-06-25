@@ -20,31 +20,17 @@
 
 ### 🖥 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blue?style=flat-square&logo=chakra-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)![Vercel](https://img.shields.io/badge/-Vercel-blue?style=flat-square&logo=netlify&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript] 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+ (https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+ ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+ ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blue?style=flat-square&logo=chakra-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components&logoColor=white)
+ 
+ ### Tools
 
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) 
 
-## Tech Stack
-
-### Languages and Frameworks
-- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
-- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-- **[React](https://reactjs.org/)**
-- **[Redux](https://redux.js.org/)**
-- **[MongoDB](https://www.mongodb.com/)**
-- **[Express](https://expressjs.com/)**
-- **[Node.js](https://nodejs.org/)**
-- **[Chakra UI](https://chakra-ui.com/)**
-- **[Bootstrap](https://getbootstrap.com/)**
-- **[Styled Components](https://styled-components.com/)**
-
-### Tools and Platforms
-- **[VS Code](https://code.visualstudio.com/)**
-- **[Postman](https://www.postman.com/)**
-- **[Git](https://git-scm.com/)**
-- **[Vercel](https://vercel.com/)**
-- **[Render](https://render.com/)**
-- **[Netlify](https://www.netlify.com/)**
 
 
 
