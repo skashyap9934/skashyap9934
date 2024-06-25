@@ -14,6 +14,8 @@
 
 📜 [Portfolio](https://portfolio-ten-livid-87.vercel.app/)
 
+📜 [Resume](https://drive.google.com/file/d/1enlN04gFKiPAnIz9d-KnLLIWjbkYvwqa/view?usp=sharing)
+
 ### 🌐 Socials
 
 - 💼 LinkedIn: [Saurav Kashyap](https://www.linkedin.com/in/saurav-kashyap/)
@@ -31,10 +33,9 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skashyap9934&show_icons=true&theme=radical) <br />
-![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skashyap9934&theme=github) <br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap9934&layout=compact&theme=radical) <br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skashyap9934&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skashyap9934&theme=radical) <br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap9934&layout=compact&theme=radical) <br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=skashyap9934&theme=radical) <br />
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skashyap9934&theme=github)
 
