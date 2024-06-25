@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hi 👋 I'm Saurav Kashyap</strong></h1>
 
-<p>I'm an experienced and passionate Full Stack Developer skilled in MERN Stack. I enjoy building web applications and exploring new technologies.</p>
+<p>An experienced and passionate Full Stack Developer skilled in MERN Stack. I enjoy building web applications and exploring new technologies.</p>
 
 🌎 I'm from Bihar. Currently, residing in Bangalore, Karnataka, India.
 
@@ -35,9 +35,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skashyap9934&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skashyap9934&theme=radical) <br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap9934&layout=compact&theme=radical) <br />
-![Trophies](https://github-profile-trophy.vercel.app/?username=skashyap9934&theme=radical) <br />
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skashyap9934&theme=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap9934&layout=compact&theme=radical) ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skashyap9934&theme=github)
 
 If you are interested in collaborating or just want to say hi, I'm always open to meeting new people! Let's connect and build something amazing together.
 
