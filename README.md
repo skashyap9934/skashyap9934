@@ -14,7 +14,7 @@
 
 📜 [Saurav Kashyap Portfolio](https://portfolio-ten-livid-87.vercel.app/)
 
-📜 [Resume](https://drive.google.com/file/d/1enlN04gFKiPAnIz9d-KnLLIWjbkYvwqa/view?usp=sharing)
+📜 [Resume](https://drive.google.com/file/d/1OvumqeYy7rYeSJ8FK553KDp_DgWtWQpw/view?usp=sharing)
 
 ### 🌐 Socials
 
